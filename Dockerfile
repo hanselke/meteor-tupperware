@@ -1,4 +1,4 @@
-FROM          debian:wheezy
+FROM          torusware/speedus-ubuntu
 MAINTAINER    Chris Wessels (https://github.com/chriswessels)
 
 ENV           NODE_VERSION="0.10.40" PHANTOMJS_VERSION="1.9.8" IMAGEMAGICK_VERSION="8:6.7.7.10-5+deb7u3"
